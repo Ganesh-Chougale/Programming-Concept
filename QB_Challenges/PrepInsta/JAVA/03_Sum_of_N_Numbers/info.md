@@ -11,9 +11,9 @@ Where first 8 number is 1, 2, 3, 4, 5
 Sum of numbers = 1 + 2 + 3 + 4 + 5 = 15
 ```
 
-- > Method 1: Using for Loop
-- File Name : `SumOfN_ForLoop.java`
-- > Method 2: Using Formula for the Sum of Nth Term
-- File Name : `SumOfN_formulae.java`
-- > Method 3: Using Recursion
-- File Name : ` `
+- Method 1: Using for Loop
+> File Name : `SumOfN_ForLoop.java`
+- Method 2: Using Formula for the Sum of Nth Term
+> File Name : `SumOfN_formulae.java`
+- Method 3: Using Recursion
+> File Name : `SumOfN_Recursion.java`

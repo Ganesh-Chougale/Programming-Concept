@@ -8,9 +8,9 @@ Input : num = 11
 Output : Positive
 ```
 
-> Method 1: Using Brute Force
-File Name : `NOP_BruteForce.java`
-> Method 2: Using Nested if-else Statements
-File Name : `NOP_Nested_IfElse.java`
-> Method 3: Using Ternary Operators
-File Name : `NOP_Ternary.java`
+- Method 1: Using Brute Force
+> File Name : `NOP_BruteForce.java`
+- Method 2: Using Nested if-else Statements
+> File Name : `NOP_Nested_IfElse.java`
+- Method 3: Using Ternary Operators
+> File Name : `NOP_Ternary.java`

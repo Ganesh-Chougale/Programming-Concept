@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class NOP_BruteForce {
+
+    public static void NOP() {
+    Scanner sc = new Scanner(System.in);
+    System.out.print("Enter the Number: ");
+    int num = sc.nextInt();
+
+    if(num<0){
+        System.out.println("The Given Number "+num+" is negative Number");
+    }else if(num>0){
+        System.out.println("The Given Number "+num+" is positive Number");
+    }else{
+        System.out.println("The Given Number "+num+" is zero");
+    }
+    }
+    
+    public static void main(String[] args) {
+        NOP();
+    }
+}

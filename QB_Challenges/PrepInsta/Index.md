@@ -1,35 +1,35 @@
-__Q1. Check if a Number is Positive or Negative__
-NegOrPos.java
+## Q1. Check if a Number is Positive or Negative
+Directory: `NegOrPos.java`
 
-__Q2. Java Program to Check Whether a Number is Even or Odd__
-EvenOrOdd.java
+## Q2. Java Program to Check Whether a Number is Even or Odd
+Directory: `EvenOrOdd.java`
 
-__Q3. Program to Find the Sum of First N Natural Numbers__
-SumOfNaturalNumbers.java        // iteration
+## Q3. Program to Find the Sum of First N Natural Numbers (Iteration)
+Directory: `SumOfNaturalNumbers.java`
 
-__Q4. Program to Find the Sum of First N Natural Numbers in recusrion__
-SumOfNaturalNumRecursion.java   // recursion
+## Q4. Program to Find the Sum of First N Natural Numbers (Recursion)
+Directory: `SumOfNaturalNumRecursion.java`
 
-__Q5. Find the Sum of the Numbers in a Given Range__
-SumOfNumbersWithinRange.java
+## Q5. Find the Sum of the Numbers in a Given Range
+Directory: `SumOfNumbersWithinRange.java`
 
-__Q6. Program to Find Greatest of Two Numbers__
-GreatestOfTwoNumbers.java
+## Q6. Program to Find the Greatest of Two Numbers
+Directory: `GreatestOfTwoNumbers.java`
 
-__Q7. Program to Find Greatest of Three Numbers__
-GreatestOfThreeNumbers.java
+## Q7. Program to Find the Greatest of Three Numbers
+Directory: `GreatestOfThreeNumbers.java`
 
-__Q8. Program to Check Leap Year or not__
-LeapYearOrNot.java
+## Q8. Program to Check Whether a Year is a Leap Year or Not
+Directory: `LeapYearOrNot.java`
 
-__Q9. Check Whether a Given Number is Prime or No__
-PrimeNumber.java
+## Q9. Check Whether a Given Number is Prime or Not
+Directory: `PrimeNumber.java`
 
-__Q10. Find the Prime Numbers in a Given Interval__
-PrimeNumberWithinRange.java
+## Q10. Find the Prime Numbers in a Given Interval
+Directory: `PrimeNumberWithinRange.java`
 
-__Q11. Sum of digits of a Number__
-SumOfDigitOfaNumber.java
+## Q11. Sum of Digits of a Number
+Directory: `SumOfDigitOfaNumber.java`
 
-__
-
+## Q12. Find the Reverse of a Number
+Directory: `ReverseNum.java`

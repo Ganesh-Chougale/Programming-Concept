@@ -10,13 +10,12 @@ public class NOP_Ternary {
         sc.close();
         
         String result =
-        (num > 0) ? "The given number "+ num + " is a postive number.":
-        (num < 0) ? "The given number "+ num + " is a negative number":
-        "The given number "+ num +" is zero";
+        (num > 0) ? num + " is a postive number." :
+        (num < 0) ? num + " is a negative number":
+        num +" is zero";
         
         System.out.println(result);
                     
-        
     }
 
     public static void main(String[] args) {

@@ -8,9 +8,9 @@ Input : num = 11
 Output : Odd
 ```
 
-> Method 1: Using Brute Force
-File Name : `EOO_BruteForce.java`
-> Method 2: Using Ternary Operator
-File Name : `EOO_Ternary.java`
-> Method 3: Using Bitwise Operators
-File Name : `EOO_Bitwise.java`
+- > Method 1: Using Brute Force
+- File Name : `EOO_BruteForce.java`
+- > Method 2: Using Ternary Operator
+- File Name : `EOO_Ternary.java`
+- > Method 3: Using Bitwise Operators
+- File Name : `EOO_Bitwise.java`

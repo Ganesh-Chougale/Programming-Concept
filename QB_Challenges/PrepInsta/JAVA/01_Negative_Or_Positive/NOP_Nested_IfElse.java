@@ -10,12 +10,12 @@ public class NOP_Nested_IfElse {
 
     if(num !=0){
         if(num>0){
-        System.out.println("The Given Number "+num+" is positive Number");
+        System.out.println(num+" is positive Number");
     }else{
-            System.out.println("The Given Number "+num+" is negative Number");
+            System.out.println(num+" is negative Number");
         }
     }else{
-        System.out.println("The Given Number "+num+" is zero");
+        System.out.println(num+" is zero");
     }
     }
 

@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+    public static void primeNum() {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter your number: ");
+        int num = sc.nextInt();
+        sc.close();
+    
+    }
+
+
+    public static void main(String[] args) {
+        primeNum();
+    }

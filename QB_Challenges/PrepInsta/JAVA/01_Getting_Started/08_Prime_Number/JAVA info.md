@@ -19,4 +19,4 @@ Output : Prime
 - Method 5: Optimization by skipping even iteration
 > File Name : `PrimeNumSkipEven.java`
 - Method 6: Basic Recursion technique
-> File Name : `PrimeNumRecustion.java`
+> File Name : `PrimeNumRecurtion.java`

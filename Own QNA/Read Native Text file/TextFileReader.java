@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class TextFileReader{
     public static void main(String args[]) throws FileNotFoundException{
         
-        File fl = new File("../TXT/Target.txt");
+        File fl = new File("./Target.txt");
 
         Scanner sc = new Scanner(fl);
 

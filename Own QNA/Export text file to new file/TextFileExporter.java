@@ -10,7 +10,7 @@ public class TextFileExporter {
 
     public static void main(String[] args) throws FileNotFoundException, IOException {
         
-        String inputPath = "C:\\Users\\RaSkull\\Desktop\\Code\\Programming-Concept\\Own QNA\\Export text file to new file\\TXT\\OldText.txt";
+        String inputPath = "C:\\Users\\RaSkull\\Desktop\\Code\\Programming-Concept\\Own QNA\\Export text file to new files\\OldText.txt";
 
         File fl = new File(inputPath);
         
@@ -23,7 +23,7 @@ public class TextFileExporter {
             // merges each lines into one variable
         }
 
-        String ouputPath = "C:\\Users\\RaSkull\\Desktop\\Code\\Programming-Concept\\Own QNA\\Export text file to new file\\TXT\\NewText.txt";
+        String ouputPath = "C:\\Users\\RaSkull\\Desktop\\Code\\Programming-Concept\\Own QNA\\Export text file to new files\\NewText.txt";
 
         FileWriter fw = new FileWriter(ouputPath);
         fw.write(scannedLines);

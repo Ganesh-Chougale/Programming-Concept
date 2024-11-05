@@ -1,0 +1,7 @@
+this is your targeted text file
+this is the 2nd line of the text file
+this is the 3rd
+
+this is the 5th because 4th line is empty.
+
+your target is to access this text file throgh java, cpp and JS.

@@ -2,6 +2,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "TextFileExporter",
+            "request": "launch",
+            "mainClass": "TextFileExporter",
+            "projectName": "Programming-Concept_b282d585"
+        },
+        {
             "name": "C/C++: gcc.exe build and debug active file",
             "type": "cppdbg",
             "request": "launch",

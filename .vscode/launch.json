@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RTS",
+            "request": "launch",
+            "mainClass": "RTS",
+            "projectName": "Programming-Concept_b282d585"
+        },
+        {
+            "type": "java",
             "name": "TextFileExporter",
             "request": "launch",
             "mainClass": "TextFileExporter",
